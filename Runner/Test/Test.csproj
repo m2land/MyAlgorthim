@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="NumberInMixedCharTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestSortAlgorithm.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\NumberInMixedChar.csproj">
